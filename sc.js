@@ -290,7 +290,7 @@ window.addEventListener('load', function(){
             document.querySelector('.container').style.display = 'none';
             document.querySelector('.value_container').style.display = 'none';
             document.querySelector('.check_container').style.display = 'none';
-
+            document.querySelector('.title').style.display = 'none';
 
             document.getElementById('button2').style.display = 'block';
 
